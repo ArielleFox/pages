@@ -17,5 +17,5 @@ pages list
 pages edit
   - edits all entries row by row
 
-pages <montag-freitag>
+pages montag-freitag
   - lists entry of day
