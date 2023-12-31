@@ -12,8 +12,8 @@ Utilizes plain text documents for all db entries.
 
 ### Conmmands
 pages list
-  - lists all entries
+  lists all entries
 pages edit
-  - edits all entries row by row
+  edits all entries row by row
 pages <montag-freitag>
-  - lists entry of day
+  lists entry of day
