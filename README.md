@@ -7,8 +7,9 @@ Utilizes plain text documents for all db entries.
 
 ### Setup
 1. Clone This Repo To ~/Applications
-2. ADD: alias pages="~/Applications/pages/run.sh" to your .bash_aliases config or prefered shell env file.
-3. source .bash_aliases && hash -r
+2. chmod +x run.sh
+3. ADD: alias pages="~/Applications/pages/run.sh" to your .bash_aliases config or prefered shell env file.
+4. source .bash_aliases && hash -r
 
 ### Conmmands
 pages list
