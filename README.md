@@ -11,7 +11,7 @@ Utilizes plain text documents for all db entries.
 3. ADD: alias pages="~/Applications/pages/run.sh" to your .bash_aliases config or prefered shell env file.
 4. source .bash_aliases && hash -r
 
-### Conmmands
+### Commands
 pages list
   - lists all entries
 
